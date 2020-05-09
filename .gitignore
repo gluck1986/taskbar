@@ -1,0 +1,3 @@
+/src/vendor/
+/src/.env
+/src/db/db.sqlite

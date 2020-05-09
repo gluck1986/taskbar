@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/container-interop/container-interop" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/laminas/laminas-di" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/laminas/laminas-diactoros" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/laminas/laminas-httphandlerrunner" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/laminas/laminas-servicemanager" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/laminas/laminas-stdlib" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/laminas/laminas-zendframework-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/route" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phpstan/phpstan-shim" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/http-server-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/http-server-middleware" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/slim/php-view" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/vlucas/phpdotenv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

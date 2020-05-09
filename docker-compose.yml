@@ -1,0 +1,19 @@
+version: '3'
+services:
+  nginx:
+    build:
+      dockerfile: ./Dockerfile
+      context: ./docker/nginx
+    volumes:
+      - ./src/:/var/www
+    ports:
+      - "8080:80"
+    depends_on:
+      - php-fpm
+  php-fpm:
+    build:
+      dockerfile: ./Dockerfile
+      context: ./docker/php-fpm
+    container_name: php-fpm
+    volumes:
+      - ./src/:/var/www
